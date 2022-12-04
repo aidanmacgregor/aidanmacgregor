@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanmacgregor&show_icons=true&locale=en" alt="aidanmacgregor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmacgregor&" alt="aidanmacgregor" /></p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=FF0000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)](https://github.com/cyberru
