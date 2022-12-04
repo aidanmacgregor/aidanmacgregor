@@ -38,9 +38,9 @@
 <br><br><br><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aidanmacgregor&show_icons=true&locale=en" alt="aidanmacgregor" /></p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aidanmacgregor&" alt="aidanmacgregor" /></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=FF0000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=FF0000&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
